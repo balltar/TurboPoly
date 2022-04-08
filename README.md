@@ -1,6 +1,9 @@
 # TurboPoly
 Polynomial representations and polynomial arithmetic algorithms in Rust. 
 
+## Traits
+- [ ] Have traits for Ring or FFTUnity (I dunno, something that implements what's needed for FFT)
+
 ## Representations to try:
 - [ ] Two vectors
 - [ ] Coefficient lists
@@ -11,6 +14,7 @@ Polynomial representations and polynomial arithmetic algorithms in Rust.
 - [ ] Naive Algorithm
 - [ ] Wiedmann's Algorithm (https://www.enseignement.polytechnique.fr/informatique/profs/Francois.Morain/Master1/Crypto/projects/Wiedemann86.pdf)
 - [ ] Method of Four Russians
+- [ ] Fast Fourier Transform
 
 ## Testing Tools
 - [ ] How to make random polynomials
