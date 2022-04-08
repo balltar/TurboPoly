@@ -19,6 +19,9 @@ Polynomial representations and polynomial arithmetic algorithms in Rust.
   - [ ]  Sparse
   - [ ]  Given degree
 
+## Putting it all together
+- [ ] How to test an algorithm with a certain representation and certain test sets
+
 # Setup for Linux Subsystem on Windows
 
 This tutorial was helpful: https://harsimranmaan.medium.com/install-and-setup-rust-development-environment-on-wsl2-dccb4bf63700
