@@ -1,18 +1,18 @@
 # TurboPoly
 Polynomial representations and polynomial arithmetic algorithms in Rust. 
 
-Representations to try:
+## Representations to try:
 - [ ] Two vectors
 - [ ] Coefficient lists
 - [ ] DAGs
 - [ ] Hash tables
 
-Algorithms to implement
+## Algorithms to implement
 - [ ] Naive Algorithm
 - [ ] Wiedmann's Algorithm (https://www.enseignement.polytechnique.fr/informatique/profs/Francois.Morain/Master1/Crypto/projects/Wiedemann86.pdf)
 - [ ] Method of Four Russians
 
-Testing Tools
+## Testing Tools
 - [ ] How to make random polynomials
   - [ ]  Homogeneous
   - [ ]  Bounded Coefficients
