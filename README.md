@@ -47,3 +47,7 @@ Polynomial representations and polynomial arithmetic algorithms in Rust.
 # Setup for Linux Subsystem on Windows
 
 This tutorial was helpful: https://harsimranmaan.medium.com/install-and-setup-rust-development-environment-on-wsl2-dccb4bf63700
+
+# Resources
+
+Could have useful info or references: http://www.cecm.sfu.ca/CAG/papers/SDMPheap08.pdf
