@@ -11,7 +11,7 @@ Polynomial representations and polynomial arithmetic algorithms in Rust.
 
 - [ ] Implement a Univariate polynomial representation for polynomials as coefficient vectors
 - [ ] Implement a basic convolution with univariate coefficient vector representation 
-- [ ] Implement a convolution using Karatsuba with univariate ceofficient vector representation
+- [ ] Implement a convolution using Karatsuba with univariate coefficient vector representation
 
 # Goals
 
@@ -27,8 +27,7 @@ Polynomial representations and polynomial arithmetic algorithms in Rust.
 ## Algorithms to implement
 
 - [ ] Naive Algorithm
-- [ ] Wiedmann's Algorithm (https://www.enseignement.polytechnique.fr/informatique/profs/Francois.Morain/Master1/Crypto/projects/Wiedemann86.pdf)
-- [ ] Method of Four Russians
+- [ ] Karatsuba
 - [ ] Fast Fourier Transform
 
 ## Testing Tools
