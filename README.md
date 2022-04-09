@@ -51,3 +51,9 @@ This tutorial was helpful: https://harsimranmaan.medium.com/install-and-setup-ru
 # Resources
 
 Could have useful info or references: http://www.cecm.sfu.ca/CAG/papers/SDMPheap08.pdf
+
+List of algorithms: https://www.gaussianwaves.com/2014/02/survey-of-methods-to-compute-convolution/
+
+Fast Fourier Transform:
+  * http://www.ece.umn.edu/users/parhi/SLIDES/chap8.pdf
+  * http://kaltofen.math.ncsu.edu/bibliography/87/CaKa87_techrep.pdf
